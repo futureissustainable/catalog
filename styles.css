@@ -1104,4 +1104,9 @@ h2 {
         position: absolute !important;
         left: -9999px !important;
     }
+
+    .page.upgrades-page {
+        padding: 3.8rem 3rem !important;
+        box-sizing: border-box !important;
+    }
 }
