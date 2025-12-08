@@ -936,6 +936,12 @@ h2 {
 }
 
 @media print {
+    .certifications-column img,
+    .spec-icon,
+    .icon-svg {
+        opacity: 1 !important;
+    }
+
     @page {
         size: A4 portrait;
         margin: 0;
