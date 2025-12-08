@@ -958,10 +958,13 @@ h2 {
         page-break-inside: avoid;
         break-inside: avoid;
         margin: 0 !important;
-        padding: 0 !important;
         box-shadow: none !important;
         overflow: hidden !important;
         position: relative !important;
+    }
+
+    .page:not(.upgrades-page) {
+        padding: 0 !important;
     }
 
     .page:last-child {
