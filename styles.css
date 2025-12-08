@@ -253,6 +253,16 @@ h2 {
     opacity: 0.8;
 }
 
+.certifications-column .cert-logo {
+    height: 70px;
+    width: auto;
+    opacity: 0.9;
+}
+
+.certifications-column .passivhaus-logo {
+    height: 80px;
+}
+
 .structure-image {
     flex: 1;
     height: 100%;
