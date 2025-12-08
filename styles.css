@@ -1006,6 +1006,10 @@ h2 {
     .language-selector {
         display: none !important;
     }
+
+    .upgrades-page {
+        padding: 3.8rem 3rem !important;
+    }
 }
 
 @media screen and (max-width: 768px) {
