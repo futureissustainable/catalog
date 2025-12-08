@@ -203,8 +203,8 @@ h2 {
 }
 
 .spec-icon {
-    font-family: 'Material Symbols Outlined';
-    font-size: 2rem;
+    width: 2rem;
+    height: 2rem;
     color: #14171c;
     flex-shrink: 0;
     opacity: 0.8;
@@ -1089,8 +1089,9 @@ h2 {
     border-color: #2a2d33;
 }
 
-.language-selector .download-btn .material-symbols-outlined {
-    font-size: 20px;
+.language-selector .download-btn .icon-svg {
+    width: 20px;
+    height: 20px;
 }
 
 .language-selector .version-label {
