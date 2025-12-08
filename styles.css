@@ -1093,6 +1093,16 @@ h2 {
     font-size: 20px;
 }
 
+.language-selector .version-label {
+    position: absolute;
+    bottom: -18px;
+    right: 0;
+    font-size: 10px;
+    color: #999;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
 @media print {
     .language-selector {
         display: none !important;
