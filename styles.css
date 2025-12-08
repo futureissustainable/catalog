@@ -931,22 +931,37 @@ h2 {
         margin: 0;
     }
 
+    html, body {
+        margin: 0 !important;
+        padding: 0 !important;
+        width: 210mm !important;
+        height: auto !important;
+        background: white !important;
+    }
+
     body {
-        margin: 0;
-        padding: 0;
+        display: block !important;
     }
 
     main {
         padding: 0 !important;
         gap: 0 !important;
         background: white !important;
+        display: block !important;
     }
 
     .page {
+        width: 210mm !important;
+        height: 297mm !important;
         page-break-after: always;
         break-after: page;
+        page-break-inside: avoid;
+        break-inside: avoid;
         margin: 0 !important;
+        padding: 0 !important;
         box-shadow: none !important;
+        overflow: hidden !important;
+        position: relative !important;
     }
 
     .page:last-child {
@@ -1049,6 +1064,25 @@ h2 {
     background: #14171c;
     color: white;
     border-color: #14171c;
+}
+
+.language-selector .download-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 12px;
+    background: #14171c;
+    color: white;
+    border: 2px solid #14171c;
+}
+
+.language-selector .download-btn:hover {
+    background: #2a2d33;
+    border-color: #2a2d33;
+}
+
+.language-selector .download-btn .material-symbols-outlined {
+    font-size: 20px;
 }
 
 @media print {
