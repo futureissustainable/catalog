@@ -940,6 +940,13 @@ h2 {
     .spec-icon,
     .icon-svg {
         opacity: 1 !important;
+        shape-rendering: geometricPrecision;
+        vector-effect: non-scaling-stroke;
+    }
+
+    .spec-icon {
+        width: 3rem !important;
+        height: 3rem !important;
     }
 
     @page {
