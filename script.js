@@ -70,7 +70,7 @@ const translations = {
         "p3.installations.item2": "Ariston Velis Warmwasserspeicher (ultraflaches Design)",
         "p3.installations.item3": "Smart-Beleuchtung (Philips HUE oder IKEA TRÅDFRI)",
         "p3.installations.item4": "Smarte Außenjalousien",
-        "p3.installations.item5": "Zehnder ComfoAir Lüftung + Panasonic Wärmepumpe",
+        "p3.installations.item5": "Zehnder Lüftung + Panasonic Wärmepumpe",
         "p3.section.docs": "Dokumentation",
         "p3.docs.item1": "Passivhaus-Zertifizierung",
         "p3.docs.item2": "EPD-Nachhaltigkeits-Dokumentation",
