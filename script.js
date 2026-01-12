@@ -1,14 +1,14 @@
 // Translation data
 const translations = {
     de: {
-        "head.title": "BIOBUILDS Gesamtkatalog 2025",
+        "head.title": "BIOBUILDS Gesamtkatalog 2026",
         "cover.vertical_text": "Aus der Natur geboren, fürs Leben gebaut",
         "brand.name": "BIOBUILDS",
         "brand.module_label": "BIOBUILDS MODULAR",
         "cover.h1_line1": "Mehr als ein Haus",
         "cover.h1_line2": "eine Lebensweise",
         "cover.tagline": "Nachhaltiges Wohnen neu definiert",
-        "year.2025": "2025",
+        "year.2026": "2026",
         "contact.email": "hello@biobuilds.com",
         "contact.domain": "biobuilds.com",
         "page_label.PAGE 1": "SEITE 1",
@@ -216,17 +216,17 @@ const translations = {
         "contact.h1": "Lassen Sie uns\nIhre Zukunft bauen",
         "contact.tagline_line1": "Bereit für Ihr nachhaltiges Zuhause?",
         "contact.tagline_line2": "Kontaktieren Sie noch heute unser Team.",
-        "contact.footer": "BIOBUILDS MODULAR • 2025"
+        "contact.footer": "BIOBUILDS MODULAR • 2026"
     },
     ro: {
-        "head.title": "Catalog complet BIOBUILDS 2025",
+        "head.title": "Catalog complet BIOBUILDS 2026",
         "cover.vertical_text": "Născut din natură, construit pentru viață",
         "brand.name": "BIOBUILDS",
         "brand.module_label": "BIOBUILDS MODULAR",
         "cover.h1_line1": "Mai mult decât o casă",
         "cover.h1_line2": "un mod de viață",
         "cover.tagline": "Viața sustenabilă redefinită",
-        "year.2025": "2025",
+        "year.2026": "2026",
         "contact.email": "hello@biobuilds.com",
         "contact.domain": "biobuilds.com",
         "page_label.PAGE 1": "PAGINA 1",
@@ -434,7 +434,7 @@ const translations = {
         "contact.h1": "Haide să construim\nviitorul tău",
         "contact.tagline_line1": "Pregătit pentru locuința ta sustenabilă?",
         "contact.tagline_line2": "Contactează echipa noastră astăzi.",
-        "contact.footer": "BIOBUILDS MODULAR • 2025"
+        "contact.footer": "BIOBUILDS MODULAR • 2026"
     }
 };
 
