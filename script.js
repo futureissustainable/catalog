@@ -73,7 +73,7 @@ const translations = {
         "p3.installations.item5": "Zehnder ComfoAir Lüftung + Panasonic Wärmepumpe",
         "p3.section.docs": "Dokumentation",
         "p3.docs.item1": "Passivhaus-Zertifizierung",
-        "p3.docs.item2": "EPD-Nachhaltigkeitsdokumentation",
+        "p3.docs.item2": "EPD-Nachhaltigkeits-Dokumentation",
         "p3.docs.item3": "CE-Kennzeichnung aller relevanten Komponenten",
         "p3.docs.item4": "24 Monate Garantie (privat), 12 Monate (gewerblich)",
         "page_label.PAGE 4": "SEITE 4",
