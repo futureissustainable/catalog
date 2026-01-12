@@ -1,14 +1,14 @@
 // Translation data
 const translations = {
     de: {
-        "head.title": "BIOBUILDS Gesamtkatalog 2025",
+        "head.title": "BIOBUILDS Gesamtkatalog 2026",
         "cover.vertical_text": "Aus der Natur geboren, fürs Leben gebaut",
         "brand.name": "BIOBUILDS",
         "brand.module_label": "BIOBUILDS MODULAR",
         "cover.h1_line1": "Mehr als ein Haus",
         "cover.h1_line2": "eine Lebensweise",
         "cover.tagline": "Nachhaltiges Wohnen neu definiert",
-        "year.2025": "2025",
+        "year.2026": "2026",
         "contact.email": "hello@biobuilds.com",
         "contact.domain": "biobuilds.com",
         "page_label.PAGE 1": "SEITE 1",
@@ -30,7 +30,8 @@ const translations = {
         "p2.subtitle": "BIOBUILDS Ausbauhaus: Sie sind der Designer. Außen komplett fertig, innen bereit für Ihre Gestaltung.",
         "p2.section.interior": "Innen",
         "p2.interior.item1": "Vollständig luftdichte, energieeffiziente Hülle mit OSB-Platten (nahtlos, bereit zur Endbearbeitung)",
-        "p2.interior.item2": "Bereit für Ihr individuelles Design und Ihre Oberflächen",
+        "p2.interior.item2": "Abgedichtete Badezimmer mit fertigen Installationen",
+        "p2.interior.item3": "Bereit für Ihr individuelles Design und Ihre Oberflächen",
         "p2.section.exterior": "Außen",
         "p2.exterior.lead": "Außen vollständig fertiggestellt:",
         "p2.exterior.item1": "Passivhaus-zertifizierte Struktur: MODULAR",
@@ -69,7 +70,8 @@ const translations = {
         "p3.installations.item2": "Ariston Velis Warmwasserspeicher (ultraflaches Design)",
         "p3.installations.item3": "Smart-Beleuchtung (Philips HUE oder IKEA TRÅDFRI)",
         "p3.installations.item4": "Smarte Außenjalousien",
-        "p3.installations.item5": "Zehnder Lüftungsanlage",
+        "p3.installations.item5": "Zehnder ComfoAir Lüftungsanlage",
+        "p3.installations.item6": "+ Panasonic Wärmepumpe",
         "p3.section.docs": "Dokumentation",
         "p3.docs.item1": "Passivhaus-Zertifizierung",
         "p3.docs.item2": "EPD-Nachhaltigkeitsdokumentation",
@@ -216,17 +218,17 @@ const translations = {
         "contact.h1": "Lassen Sie uns\nIhre Zukunft bauen",
         "contact.tagline_line1": "Bereit für Ihr nachhaltiges Zuhause?",
         "contact.tagline_line2": "Kontaktieren Sie noch heute unser Team.",
-        "contact.footer": "BIOBUILDS MODULAR • 2025"
+        "contact.footer": "BIOBUILDS MODULAR • 2026"
     },
     ro: {
-        "head.title": "Catalog complet BIOBUILDS 2025",
+        "head.title": "Catalog complet BIOBUILDS 2026",
         "cover.vertical_text": "Născut din natură, construit pentru viață",
         "brand.name": "BIOBUILDS",
         "brand.module_label": "BIOBUILDS MODULAR",
         "cover.h1_line1": "Mai mult decât o casă",
         "cover.h1_line2": "un mod de viață",
         "cover.tagline": "Viața sustenabilă redefinită",
-        "year.2025": "2025",
+        "year.2026": "2026",
         "contact.email": "hello@biobuilds.com",
         "contact.domain": "biobuilds.com",
         "page_label.PAGE 1": "PAGINA 1",
@@ -248,7 +250,8 @@ const translations = {
         "p2.subtitle": "Casa BIOBUILDS semi-finisată: fii propriul tău designer. Exterior complet finalizat, interior pregătit pentru viziunea ta.",
         "p2.section.interior": "Interior",
         "p2.interior.item1": "Structură complet etanșă și eficientă energetic cu plăci OSB (fără rosturi, pregătită pentru finisare)",
-        "p2.interior.item2": "Pregătită pentru designul și finisajele tale personalizate",
+        "p2.interior.item2": "Băi hidroizolate cu instalații la locul lor",
+        "p2.interior.item3": "Pregătită pentru designul și finisajele tale personalizate",
         "p2.section.exterior": "Exterior",
         "p2.exterior.lead": "Exterior complet finalizat:",
         "p2.exterior.item1": "Structură certificată Passivhaus: MODULAR",
@@ -287,7 +290,8 @@ const translations = {
         "p3.installations.item2": "Boiler Ariston Velis (design ultra-subțire)",
         "p3.installations.item3": "Iluminat inteligent (Philips HUE sau IKEA TRÅDFRI)",
         "p3.installations.item4": "Jaluzele exterioare inteligente",
-        "p3.installations.item5": "Sistem de ventilație Zehnder",
+        "p3.installations.item5": "Sistem de ventilație Zehnder ComfoAir",
+        "p3.installations.item6": "+ Pompă de căldură Panasonic",
         "p3.section.docs": "Documentație",
         "p3.docs.item1": "Certificare Passivhaus",
         "p3.docs.item2": "Documentație de sustenabilitate EPD",
@@ -434,7 +438,7 @@ const translations = {
         "contact.h1": "Haide să construim\nviitorul tău",
         "contact.tagline_line1": "Pregătit pentru locuința ta sustenabilă?",
         "contact.tagline_line2": "Contactează echipa noastră astăzi.",
-        "contact.footer": "BIOBUILDS MODULAR • 2025"
+        "contact.footer": "BIOBUILDS MODULAR • 2026"
     }
 };
 
