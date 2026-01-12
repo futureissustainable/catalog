@@ -1027,6 +1027,13 @@ h2 {
 
     .contact-page {
         overflow: hidden !important;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+    }
+
+    .contact-page::before,
+    .contact-page::after {
+        display: none !important;
     }
 
     .contact-content {
