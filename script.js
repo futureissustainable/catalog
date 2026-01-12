@@ -289,7 +289,7 @@ const translations = {
         "p3.installations.item2": "Boiler Ariston Velis (design ultra-subțire)",
         "p3.installations.item3": "Iluminat inteligent (Philips HUE sau IKEA TRÅDFRI)",
         "p3.installations.item4": "Jaluzele exterioare inteligente",
-        "p3.installations.item5": "Sistem de ventilație Zehnder ComfoAir + Pompă de căldură Panasonic",
+        "p3.installations.item5": "Sistem de ventilație Zehnder + Pompă de căldură Panasonic",
         "p3.section.docs": "Documentație",
         "p3.docs.item1": "Certificare Passivhaus",
         "p3.docs.item2": "Documentație de sustenabilitate EPD",
