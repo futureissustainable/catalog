@@ -324,9 +324,15 @@ h2 {
 
 .package-sections {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 2rem 1.5rem;
     margin-bottom: 2rem;
+}
+
+.package-section {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    min-width: 0;
 }
 
 .package-section h3 {
