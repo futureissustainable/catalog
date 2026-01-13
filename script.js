@@ -29,7 +29,7 @@ const translations = {
         "p2.title": "AUSBAUHAUS",
         "p2.subtitle": "BIOBUILDS Ausbauhaus: Sie sind der Designer. Außen komplett fertig, innen bereit für Ihre Gestaltung.",
         "p2.section.interior": "Innen",
-        "p2.interior.item1": "MODULAR™ Struktur ~35 cm, Passivhaus / EPD zertifiziert. Volumetrisches Timber-Frame-System mit SteicoFLEX-Dämmung, Holzfaser-Außenbeplankung, intelligenter Membran und durchgehender OSB-Ebene. Keine Wärmebrücken. Vollständig luftdicht.",
+        "p2.interior.item1": "MODULAR™ Struktur ~35 cm, Passivhaus/EPD-zertifiziert. Timber-Frame mit SteicoFLEX, Holzfaser-Beplankung, Smart-Membran, OSB-Ebene. Keine Wärmebrücken. Luftdicht.",
         "p2.interior.item2": "Abgedichtete Badezimmer mit fertigen Installationen",
         "p2.interior.item3": "Bereit für Ihr individuelles Design und Ihre Oberflächen",
         "p2.section.exterior": "Außen",
