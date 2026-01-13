@@ -1041,6 +1041,25 @@ h2 {
         padding: 4rem 3rem !important;
     }
 
+    .contact-content h1 {
+        background: none !important;
+        -webkit-background-clip: unset !important;
+        -webkit-text-fill-color: white !important;
+        background-clip: unset !important;
+        color: white !important;
+        opacity: 1 !important;
+    }
+
+    .contact-content .tagline {
+        opacity: 1 !important;
+        color: white !important;
+    }
+
+    .contact-footer {
+        opacity: 1 !important;
+        color: white !important;
+    }
+
     .language-selector {
         display: none !important;
     }
