@@ -55,7 +55,7 @@ const translations = {
         "p3.interior.lead": "Inkl. Ausbauhaus plus:",
         "p3.interior.item1": "Natürliche Holzlamellendecken mit Recycling-Filz",
         "p3.interior.item2": "Wandoberflächen aus unserem Katalog: Glasfasergewebe, Filz, Holzfurnier usw.",
-        "p3.interior.item3": "Dreischicht-Holzparkett 9–14 mm, FSC-zertifiziert, strapazierfähige Oberfläche",
+        "p3.interior.item3": "3-Schicht-Parkett 9–14 mm, FSC, strapazierfähig",
         "p3.interior.item4": "S10-Wabenkern-Innentüren (CE-zertifiziert)",
         "p3.interior.item5": "Schneider Premium-Steckdosen (CE/VDE-zertifiziert)",
         "p3.section.exterior": "Außen",
