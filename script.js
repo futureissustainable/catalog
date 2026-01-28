@@ -1,6 +1,7 @@
 // Translation data
 const translations = {
     de: {
+        "vat.label": "+MwSt",
         "head.title": "BIOBUILDS Gesamtkatalog 2026",
         "cover.vertical_text": "Aus der Natur geboren, fürs Leben gebaut",
         "brand.name": "BIOBUILDS",
@@ -218,6 +219,7 @@ const translations = {
         "contact.footer": "BIOBUILDS MODULAR • 2026"
     },
     ro: {
+        "vat.label": "+TVA",
         "head.title": "Catalog complet BIOBUILDS 2026",
         "cover.vertical_text": "Născut din natură, construit pentru viață",
         "brand.name": "BIOBUILDS",

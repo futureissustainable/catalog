@@ -542,6 +542,14 @@ h2 {
     letter-spacing: -0.01em;
 }
 
+.vat-label {
+    font-size: 0.7rem;
+    font-weight: 400;
+    color: #999999;
+    margin-left: 0.3rem;
+    letter-spacing: 0;
+}
+
 .floorplan-section {
     max-height: 27.5%;
     flex: 0 0 auto;
